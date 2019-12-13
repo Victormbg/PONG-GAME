@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>paddle_green.png</Source>
+      <Name>paddle_green</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\microsoft visual studio\projeto 1 - pong\projeto1\projeto1\projeto1\bin\x86\Debug\Content\paddle_green.xnb</Output>
+      <Time>2015-05-16T20:02:48-03:00</Time>
+    </Item>
+    <Item>
+      <Source>paddle_green 1.png</Source>
+      <Name>paddle_green 1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\microsoft visual studio\projeto 1 - pong\projeto1\projeto1\projeto1\bin\x86\Debug\Content\paddle_green 1.xnb</Output>
+      <Time>2015-05-16T20:03:16-03:00</Time>
+    </Item>
+    <Item>
+      <Source>ball.png</Source>
+      <Name>ball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\microsoft visual studio\projeto 1 - pong\projeto1\projeto1\projeto1\bin\x86\Debug\Content\ball.xnb</Output>
+      <Time>2015-05-16T20:08:04-03:00</Time>
+    </Item>
+    <Item>
+      <Source>25462_1dc55ffa06e810d0b8a14a0028787e6f.png</Source>
+      <Name>25462_1dc55ffa06e810d0b8a14a0028787e6f</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\microsoft visual studio\projeto 1 - pong\projeto1\projeto1\projeto1\bin\x86\Debug\Content\25462_1dc55ffa06e810d0b8a14a0028787e6f.xnb</Output>
+      <Time>2015-06-18T14:43:10-03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{30756655-FEDB-423A-B54B-BDAE73C490B1}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\microsoft visual studio\projeto 1 - pong\projeto1\projeto1\projeto1Content\</RootDirectory>
+      <LoggerRootDirectory>D:\microsoft visual studio\projeto 1 - pong\projeto1\projeto1\projeto1\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\microsoft visual studio\projeto 1 - pong\projeto1\projeto1\projeto1\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\microsoft visual studio\projeto 1 - pong\projeto1\projeto1\projeto1\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-03-06T12:07:34.6755518-03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

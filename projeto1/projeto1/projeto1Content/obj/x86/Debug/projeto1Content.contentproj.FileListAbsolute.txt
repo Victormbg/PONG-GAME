@@ -1,0 +1,3 @@
+C:\Users\aluno\Desktop\projeto1\projeto1\projeto1Content\obj\x86\Debug\projeto1Content.contentprojResolveAssemblyReference.cache
+D:\microsoft visual studio\projeto 1 - pong\projeto1\projeto1\projeto1Content\obj\x86\Debug\projeto1Content.contentprojResolveAssemblyReference.cache
+F:\microsoft visual studio\projeto 1 - pong\projeto1\projeto1\projeto1Content\obj\x86\Debug\projeto1Content.contentprojResolveAssemblyReference.cache

@@ -1,0 +1,27 @@
+C:\Users\aluno\Desktop\projeto1\projeto1\projeto1\bin\x86\Debug\projeto1.exe
+C:\Users\aluno\Desktop\projeto1\projeto1\projeto1\bin\x86\Debug\projeto1.pdb
+C:\Users\aluno\Desktop\projeto1\projeto1\projeto1\obj\x86\Debug\projeto1.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\projeto1\projeto1\projeto1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\aluno\Desktop\projeto1\projeto1\projeto1\obj\x86\Debug\projeto1.exe
+C:\Users\aluno\Desktop\projeto1\projeto1\projeto1\obj\x86\Debug\projeto1.pdb
+C:\Users\aluno\Desktop\projeto1\projeto1\projeto1\bin\x86\Debug\Content\paddle_green.xnb
+D:\microsoft visual studio\projeto 1 - pong\projeto1\projeto1\projeto1\bin\x86\Debug\Content\paddle_green.xnb
+D:\microsoft visual studio\projeto 1 - pong\projeto1\projeto1\projeto1\bin\x86\Debug\projeto1.exe
+D:\microsoft visual studio\projeto 1 - pong\projeto1\projeto1\projeto1\bin\x86\Debug\projeto1.pdb
+D:\microsoft visual studio\projeto 1 - pong\projeto1\projeto1\projeto1\obj\x86\Debug\projeto1.csprojResolveAssemblyReference.cache
+D:\microsoft visual studio\projeto 1 - pong\projeto1\projeto1\projeto1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\microsoft visual studio\projeto 1 - pong\projeto1\projeto1\projeto1\obj\x86\Debug\projeto1.exe
+D:\microsoft visual studio\projeto 1 - pong\projeto1\projeto1\projeto1\obj\x86\Debug\projeto1.pdb
+F:\microsoft visual studio\projeto 1 - pong\projeto1\projeto1\projeto1\bin\x86\Debug\Content\paddle_green.xnb
+F:\microsoft visual studio\projeto 1 - pong\projeto1\projeto1\projeto1\bin\x86\Debug\projeto1.exe
+F:\microsoft visual studio\projeto 1 - pong\projeto1\projeto1\projeto1\bin\x86\Debug\projeto1.pdb
+F:\microsoft visual studio\projeto 1 - pong\projeto1\projeto1\projeto1\obj\x86\Debug\projeto1.csprojResolveAssemblyReference.cache
+F:\microsoft visual studio\projeto 1 - pong\projeto1\projeto1\projeto1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\microsoft visual studio\projeto 1 - pong\projeto1\projeto1\projeto1\obj\x86\Debug\projeto1.exe
+F:\microsoft visual studio\projeto 1 - pong\projeto1\projeto1\projeto1\obj\x86\Debug\projeto1.pdb
+D:\microsoft visual studio\projeto 1 - pong\projeto1\projeto1\projeto1\bin\x86\Debug\Content\paddle_green 1.xnb
+D:\microsoft visual studio\projeto 1 - pong\projeto1\projeto1\projeto1\bin\x86\Debug\Content\ball.xnb
+F:\microsoft visual studio\projeto 1 - pong\projeto1\projeto1\projeto1\bin\x86\Debug\Content\paddle_green 1.xnb
+F:\microsoft visual studio\projeto 1 - pong\projeto1\projeto1\projeto1\bin\x86\Debug\Content\ball.xnb
+F:\microsoft visual studio\projeto 1 - pong\projeto1\projeto1\projeto1\bin\x86\Debug\Content\25462_1dc55ffa06e810d0b8a14a0028787e6f.xnb
+D:\microsoft visual studio\projeto 1 - pong\projeto1\projeto1\projeto1\bin\x86\Debug\Content\25462_1dc55ffa06e810d0b8a14a0028787e6f.xnb
